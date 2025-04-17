@@ -62,6 +62,3 @@ npm run dev
 - Axios
 - Vite
 
-## License
-
-MIT 
