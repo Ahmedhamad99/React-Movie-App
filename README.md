@@ -1,7 +1,5 @@
 # React-Movie-App
 
-# Movie App
-
 A modern movie application built with React, Redux, and Material-UI that allows users to browse movies, view details, manage a wishlist, and search for content using The Movie Database (TMDb) API.
 
 ## Features
@@ -25,8 +23,10 @@ A modern movie application built with React, Redux, and Material-UI that allows 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd movie-app
+git clone https://github.com/Ahmedhamad99/React-Movie-App.git
+cd  React-Movie-App
+
+
 ```
 
 2. Install dependencies:
